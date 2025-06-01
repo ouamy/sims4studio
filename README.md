@@ -1,6 +1,10 @@
 # Sims 4 Studio
 
-Sims 4 Studio is a free all-in-one tool for creating, editing, and importing custom content (CC) into The Sims 4. It lets users create objects, clothes, hairstyles, animations, poses, and modify existing game files without advanced skills.
+Sims 4 Studio is a free all-in-one tool for creating, editing, and importing custom content (CC) into The Sims 4.  
+
+It lets users create objects, clothes, hairstyles, animations, poses, and modify existing game files without advanced skills.  
+
+**Note:** Sims 4 Studio only supports Blender up to version 2.70.
 
 ## Install
 ```bash
